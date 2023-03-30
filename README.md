@@ -5,8 +5,8 @@
 
 ## Task Steps
 ### 1. Creat a code commit repostitory
-### 2. Push static site on code commit(Site available in github repo with named harsh-viradia-wildrides
-### 3. Host static site with awsamplify console
+### 2. Push static site on code commit(Site available in github repo with named harsh-viradia-wildrides)
+### 3. Host static site with aws Amplify console
 ### 4. Verify email address in amazon SES
 ### 5. Create Cognito user pool with AWS Cognito
 ### 6. Integrate app with user pool
